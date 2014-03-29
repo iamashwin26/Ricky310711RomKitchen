@@ -12,9 +12,7 @@ support for Galaxy S4 tmobile (SGH-M919)
 support for Galaxy S5 (SM-G900F)
 
 ###### V1.02
-support Samsung GT-P3100
-support Samsung GT-P3110
-support Samsung GT-P3113
+Added support for Samsung Tab 2 ( all varients )
 
 ###### V1.03
 support Samsung GT-P7500
